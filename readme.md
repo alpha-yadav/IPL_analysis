@@ -209,4 +209,4 @@ Contributions are welcome!
 
 **Aditya Yadav**
 
-**adityadav20101609@gmail.com**
+**Email:** [Contact Me](mailto:adityadav20101609@gmail.com?subject=Regarding%20IPL%20Analysis)
