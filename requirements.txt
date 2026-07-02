@@ -1,0 +1,4 @@
+notebook
+nunpy
+pandas
+matplotlib
