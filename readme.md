@@ -208,5 +208,4 @@ Contributions are welcome!
 ##  Author
 
 **Aditya Yadav**
-
-GitHub: https://github.com/alpha-yadav
+[maitto:adityadav20101609@gmail.com]
