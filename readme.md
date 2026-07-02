@@ -208,4 +208,5 @@ Contributions are welcome!
 ##  Author
 
 **Aditya Yadav**
-**adityadav20101609@gmail.com***
+
+**adityadav20101609@gmail.com**
